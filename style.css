@@ -1,0 +1,55 @@
+body{
+    background-image: url(./image/pexels-zvolskiy-2062431.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    color: black;
+    font-size: x-large;
+    margin-left: 20px;
+    
+    
+}
+h1 {
+    color:black;
+    text-align: center;
+    margin-top: 10%;
+    font-size: xxx-large;
+    
+}
+p{
+    color: white;
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
+a{
+    color: white;
+   padding: 10px;
+   text-decoration: none; 
+   float: right;
+   
+}
+ button{
+    background: none;
+    color: rgb(6, 6, 6);
+    border: 2px solid rgb(17, 18, 18);
+    border-radius: 20px;
+    padding: 10px;
+    width: 300px;
+
+ }
+ .footer{
+    text-align: center;
+    
+ }
+ button:hover{
+    background-color: aqua;
+ }
+ a:hover{
+    scale: 1.5;
+    transition: 500ms;
+  
+ }
+
